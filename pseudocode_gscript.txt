@@ -1,0 +1,22 @@
+G-SCRIPT ALPHA
+Normal stuff
+num1+num2
+n1xn2
+n1-n2
+n1/n2
+if (thing) = (thing) then
+end
+Dupe COMMANDS
+ create dupe
+ (propname, extra)
+ (PAC3 propname, extra)
+ clear all props
+ remove (prop)
+ spawn (prop) (num)
+map COMMANDS
+ map load (MAP).bsp
+ map reload
+ map exit
+other
+ quit
+ give (weapon / swep)_(thing)
